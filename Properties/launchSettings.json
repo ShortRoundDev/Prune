@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TopGGPrune": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Game Dev\""
+    }
+  }
+}
